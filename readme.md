@@ -680,7 +680,6 @@
  - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
  - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 
-
 #### Measurement Reporter
 
 *Determine and report measurements of an element*
@@ -878,6 +877,7 @@
  - [isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
  - [rill](https://github.com/rill-js/rill) - Universal web application framework.
  - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
+ - [react-universal-component](https://github.com/faceyspacey/react-universal-component) - Universal React components 
 
 
 ### Boilerplate
